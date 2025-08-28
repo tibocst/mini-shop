@@ -1,0 +1,15 @@
+{
+  "title": "Catalogue produits",
+  "search": "Rechercher...",
+  "filter": "Filtrer par catégorie",
+  "sortAsc": "Prix croissant",
+  "sortDesc": "Prix décroissant",
+  "outOfStock": "Rupture de stock",
+  "edit": "Éditer",
+  "price": "Prix",
+  "stock": "Stock",
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "errorPrice": "Le prix doit être ≥ 0",
+  "errorStock": "Le stock doit être ≥ 0"
+}

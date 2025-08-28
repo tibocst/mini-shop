@@ -1,0 +1,15 @@
+{
+  "title": "Product catalog",
+  "search": "Search...",
+  "filter": "Filter by category",
+  "sortAsc": "Price ascending",
+  "sortDesc": "Price descending",
+  "outOfStock": "Out of stock",
+  "edit": "Edit",
+  "price": "Price",
+  "stock": "Stock",
+  "save": "Save",
+  "cancel": "Cancel",
+  "errorPrice": "Price must be ≥ 0",
+  "errorStock": "Stock must be ≥ 0"
+}
